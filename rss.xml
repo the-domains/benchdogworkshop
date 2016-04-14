@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[benchdogworkshop]]></title>
         <description><![CDATA[benchdogworkshop]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/benchdogworkshop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 10:02:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 10:04:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/benchdogworkshop/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://tebogomogashoa.com/tebogo/wp-content/uploads/2014/12/telematics.jpg">]]></description>
-            <link>undefinedc5ba130b-6669-40e2-8f3f-e4cee3626dd1/index.html</link>
+            <link>http://tebogomogashoa.com/tebogo/wp-content/uploads/2014/12/telematics.jpg</link>
             <guid isPermaLink="false">c5ba130b-6669-40e2-8f3f-e4cee3626dd1</guid>
-            <pubDate>Thu, 14 Apr 2016 10:02:08 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2016 10:04:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
